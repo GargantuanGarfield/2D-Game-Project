@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ytmp3free.cc_you-parasite-in-7-different-languages-youtubemp3free.org.mp3-263ec703c5ff7034e9b85fe4c994613e.mp3str"
+
+[deps]
+
+source_file="res://ytmp3free.cc_you-parasite-in-7-different-languages-youtubemp3free.org.mp3"
+dest_files=[ "res://.import/ytmp3free.cc_you-parasite-in-7-different-languages-youtubemp3free.org.mp3-263ec703c5ff7034e9b85fe4c994613e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
